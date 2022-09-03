@@ -4,42 +4,45 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Passionate software engineering professional with experience in Enterprise Mobility
+Management and FinTech. Self-motivated and team-oriented with strong interpersonal skills.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Currently helping to revolutionize the personal loan industry.</p>
+
+<p><a class="link" href="mailto:andrewsabuda@gmail.com"  rel="noopener">Email</a> me if you would like a copy of my resume or if you'd like to know more!
+</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>HTML</li>
+	<li>CSS</li>
+	<li>Java</li>
+	<li>Kotlin</li>
+	<li>Javascript</li>
+	<li>Typescript</li>
+	<li>Node.js</li>
+	<li>React.js</li>
+	<li>Vue.js</li>
+	<li>Angular</li>
+	<li>AngularJS</li>
+	<li>Material UI</li>
+	<li>Tailwind CSS</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
 	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Amazon Web Services</li>
+	<li>Android Studio</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/andrewsabuda/AFreeCar">University Senior Capstone (Afreecar)</a></li>
 </ul>
+
+<br>
+
+<h2>Contact me:</h2>
+
+<p>andrewsabuda@gmail.com</p>
+<p>248-722-2571</p>
