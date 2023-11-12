@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>Passionate software engineering professional with experience in Enterprise Mobility
-Management and FinTech. Self-motivated and team-oriented with strong interpersonal skills.</p>
+Management and FinTech.</p>
 
 <p>Currently helping to revolutionize the personal loan industry.</p>
 
@@ -33,12 +33,12 @@ Management and FinTech. Self-motivated and team-oriented with strong interperson
 	<li>Amazon Web Services</li>
 	<li>Android Studio</li>
 </ul>
-
+<!-- 
 <h2>Projects</h2>
 
 <ul>
 	<li><a href="https://github.com/andrewsabuda/AFreeCar">University Senior Capstone (Afreecar)</a></li>
-</ul>
+</ul> -->
 
 <br>
 
